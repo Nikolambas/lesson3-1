@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 
 public class Box {
-    private ArrayList <Fruit> arrayList = new ArrayList<>();
+    private ArrayList<Fruit> arrayList = new ArrayList<>();
     private Float weight=0.0f;
 
     public Float getWeight() {
@@ -45,4 +45,3 @@ public class Box {
         }
     }
 }
-
