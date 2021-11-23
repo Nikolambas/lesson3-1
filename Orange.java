@@ -1,15 +1,17 @@
 package com.company;
 
-public class Orange extends Fruit{
-    private final String name = "Orange";
-    private final Float weight = 1.5f;
+public class Orange extends Fruit {
 
-    public Float getWeight() {
-        return weight;
-    }
+        private final String name = "Orange";
+        private final Float weight = 1.5f;
 
-    public String getName() {
-        return name;
-    }
+        public Float getWeight() {
+            return weight;
+        }
+
+        public String getName() {
+            return name;
+        }
 
 }
+
